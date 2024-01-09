@@ -15,6 +15,8 @@ app = FastAPI()
 async def root():
     return {"message": "Hello World"}
 ```
+Run
 ```
-
+$ cd app-project-folder
+$ uvicorn main:app --reload
 ```
