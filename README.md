@@ -1,5 +1,11 @@
 ### FASTAPI-NOTES
 
+### Setup Environment
+```
+$ cd app-project-folder
+$ pip3 install pipenv
+```
+[More Details](https://github.com/pollyolly/DJANGO-NOTE)
 ### Installation
 ```vim
 $ pip install uvicorn
@@ -17,6 +23,5 @@ async def root():
 ```
 Run
 ```
-$ cd app-project-folder
 $ uvicorn main:app --reload
 ```
