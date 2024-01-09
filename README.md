@@ -2,8 +2,10 @@
 
 ### Setup Environment
 ```
-$ cd app-project-folder
 $ pip3 install pipenv
+$ mkdir app-project-folder
+$ cd app-project-folder
+$ pipenv shell
 ```
 [More Details](https://github.com/pollyolly/DJANGO-NOTE)
 ### Installation
