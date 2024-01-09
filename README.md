@@ -2,7 +2,7 @@
 
 ### Setup Environment
 ```
-$ pip3 install pipenv
+$ pip install pipenv
 $ mkdir test_project_folder
 $ cd test_project_folder
 $ pipenv shell
