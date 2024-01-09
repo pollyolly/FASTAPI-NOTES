@@ -11,8 +11,8 @@ $ pip3 install pipenv
 $ pip install uvicorn
 $ pip install fastapi
 ```
+main.py
 ```vim
-# main.py
 from fastapi import FastAPI
 
 app = FastAPI()
