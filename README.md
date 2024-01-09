@@ -3,8 +3,8 @@
 ### Setup Environment
 ```
 $ pip3 install pipenv
-$ mkdir app-project-folder
-$ cd app-project-folder
+$ mkdir test_project_folder
+$ cd test_project_folder
 $ pipenv shell
 ```
 [More Details](https://github.com/pollyolly/DJANGO-NOTE)
@@ -24,6 +24,6 @@ async def root():
     return {"message": "Hello World"}
 ```
 Run
-```
+```vim
 $ uvicorn main:app --reload
 ```
