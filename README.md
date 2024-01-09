@@ -23,7 +23,7 @@ app = FastAPI()
 async def root():
     return {"message": "Hello World"}
 ```
-Run
+### Run
 ```vim
 $ uvicorn main:app --reload
 ```
