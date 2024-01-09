@@ -17,6 +17,9 @@ test_project_folder/main.py
 ```vim
 from fastapi import FastAPI
 
+# Importing other python files
+import consumer.py
+
 app = FastAPI()
 
 @app.get("/")
