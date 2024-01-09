@@ -13,7 +13,7 @@ $ pipenv shell
 $ pip install uvicorn
 $ pip install fastapi
 ```
-main.py
+test_project_folder/main.py
 ```vim
 from fastapi import FastAPI
 
