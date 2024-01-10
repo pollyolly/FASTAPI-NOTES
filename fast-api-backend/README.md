@@ -5,6 +5,7 @@
 async def get_state(pk: str)
 ```
 GET: http://localhost:8000/deliveries/01HKPYHB4R3CAA9N6H4MZCCMVH/status
+
 Request Body
 ```vim
 {
@@ -31,6 +32,7 @@ Response
 async def create(request: Request)
 ```
 POST: http://localhost:8000/deliveries/create
+
 Request Body
 ```vim
 {
