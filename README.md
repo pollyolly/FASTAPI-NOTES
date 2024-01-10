@@ -36,3 +36,7 @@ $ uvicorn main:app --reload
 [FastAPI](https://fastapi.tiangolo.com/)
 
 [RedisDatabase](https://app.redislabs.com/#/login)
+
+[React Event Driven](https://github.com/scalablescripts/react-event-driven)
+
+[Fast Api Event Driven](https://github.com/scalablescripts/fast-api-event-driven)
