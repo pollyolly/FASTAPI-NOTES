@@ -18,7 +18,7 @@ test_project_folder/main.py
 from fastapi import FastAPI
 
 # Importing other python files
-import consumer.py
+import consumers.py
 
 app = FastAPI()
 
