@@ -32,4 +32,5 @@ $ uvicorn main:app --reload
 ```
 ### References
 [Event Driven System FastAPI](https://www.youtube.com/watch?v=VkPUBx_WtK8&t=10s)
+
 [FastAPI](https://fastapi.tiangolo.com/)
